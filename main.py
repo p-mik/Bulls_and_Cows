@@ -12,6 +12,7 @@ Ahoj
 -----------------------------------------------
 Zahrajeme si LOGIK
 Tvým úkolem je uhodnout čtyřmístné číslo. 
+*pro číty napiš cheat
 -----------------------------------------------
 """)
 
